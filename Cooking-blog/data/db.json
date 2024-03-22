@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Healthy Salad Recipes",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra odio ac libero congue, ac commodo eros viverra. Duis feugiat nisl eget luctus gravida. In hac habitasse platea dictumst. Nulla facilisi. Vestibulum id ultrices lorem. Nulla nec justo quis justo vehicula pharetra. Duis ut ultrices urna. Phasellus rutrum nec nisl vel sollicitudin. In eget lorem dui. Nulla vestibulum interdum erat, ac laoreet mi sollicitudin et. In quis nunc in sapien gravida dapibus. Nullam luctus odio ut justo vehicula tempor.",
+      "author": "Chef Alaa",
+      "id": 1
+    },
+    {
+      "title": "Easy Pasta Recipes for Weeknights",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra odio ac libero congue, ac commodo eros viverra. Duis feugiat nisl eget luctus gravida. In hac habitasse platea dictumst. Nulla facilisi. Vestibulum id ultrices lorem. Nulla nec justo quis justo vehicula pharetra. Duis ut ultrices urna. Phasellus rutrum nec nisl vel sollicitudin. In eget lorem dui. Nulla vestibulum interdum erat, ac laoreet mi sollicitudin et. In quis nunc in sapien gravida dapibus. Nullam luctus odio ut justo vehicula tempor.",
+      "author": "Chef Aseela",
+      "id": 2
+    },
+    {
+      "title": "Delicious Dessert Recipes",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra odio ac libero congue, ac commodo eros viverra. Duis feugiat nisl eget luctus gravida. In hac habitasse platea dictumst. Nulla facilisi. Vestibulum id ultrices lorem. Nulla nec justo quis justo vehicula pharetra. Duis ut ultrices urna. Phasellus rutrum nec nisl vel sollicitudin. In eget lorem dui. Nulla vestibulum interdum erat, ac laoreet mi sollicitudin et. In quis nunc in sapien gravida dapibus. Nullam luctus odio ut justo vehicula tempor.",
+      "author": "Pastry Chef Sofia",
+      "id": 3
+    }
+  ]
+}

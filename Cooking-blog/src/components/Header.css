@@ -1,0 +1,34 @@
+
+  .navbar-light .navbar-nav .nav-link  {
+    color: rgb(255, 255, 255);
+}
+.navbar-light .navbar-brand {
+    color: rgb(195, 9, 9);
+}
+a {
+    color: #cf0404;
+    text-decoration: none;
+    background-color: transparent;
+}
+.navbar_wrapper a{
+    padding-left: 30px;
+    
+
+}
+.custom-navbar {
+    background-color: #333; /* Change the background color to your desired color */
+  }
+  
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background: rgb(255, 255, 255);
+    color: #c30000;
+    overflow: hidden;
+    overflow-y: scroll;
+}
